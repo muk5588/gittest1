@@ -31,8 +31,6 @@ public class Main {
         Point p1 = new Point(1, 2);
         
         System.out.println(p1.toString());
-        
-    }
 
 		System.out.println("김동욱바보");
 
