@@ -18,6 +18,7 @@ public class GitTest_01 {
 					}
 				}
 				System.out.print(lotto[i] + " ");	// 로또번호를 출력한다.
+				System.out.print("1등 100억");
 			}
 
 		

@@ -9,6 +9,7 @@ public class Dongwook {
 		
 		System.out.println();
 		
+		System.out.println(9999);
 		int n = 0;
 		
 		StringBuilder sb = new StringBuilder();
@@ -16,6 +17,8 @@ public class Dongwook {
 		sb.append(str);
 		
 		System.out.println(sb);
+
+		System.out.println(9999);
 
 		
 		System.out.println(123124);
@@ -25,6 +28,11 @@ public class Dongwook {
 		
 		System.out.println(a+b);
 		
+		
+		System.out.println(sb);
+		System.out.println(sb);
+		System.out.println(sb);
+		System.out.println(sb);
 		
 	}
 }
