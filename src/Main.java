@@ -4,6 +4,6 @@ public class Main {
         System.out.println("ikjobkjbkj");
         System.out.println("ikjobkjbkj");
         System.out.println("ikjobkjbkj");
-        System.out.println("ikjobk");
+        System.out.println("ikjob");
     }
 }
