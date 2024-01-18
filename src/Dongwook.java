@@ -9,6 +9,7 @@ public class Dongwook {
 		
 		System.out.println();
 		
+		System.out.println(9999);
 		int n = 0;
 		
 		StringBuilder sb = new StringBuilder();
