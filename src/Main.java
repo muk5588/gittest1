@@ -13,10 +13,10 @@ public class Main {
         System.out.println("Hello world!");
         
         String str = "";
-        int num;
-
-        num = 1;
     }
 
-
+		int num;
+		
+		num = 1;
 	}
+}
