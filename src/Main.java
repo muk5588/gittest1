@@ -7,7 +7,7 @@ public class Main {
 
 		System.out.println(num);
 		
-		System.out.println("자바");
+		System.out.println("java");
 
 		System.out.println("김동욱바보");
 
