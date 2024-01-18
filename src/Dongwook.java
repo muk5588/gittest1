@@ -17,14 +17,6 @@ public class Dongwook {
 		
 		System.out.println(sb);
 
-		
-		System.out.println(123124);
-		
-		int a = 1;
-		int b = 2;
-		
-		System.out.println(a+b);
-		
-		
+		System.out.println(9999);
 	}
 }
