@@ -1,3 +1,19 @@
+class Point {
+	
+	private int x;
+	private int y;
+	
+	public Point(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+	public String toString() {
+		return "Point [x=" + x + ", y=" + y + "]";
+	}
+}
+
+
 public class Main {
 	public static void main(String[] args) {
 
@@ -8,6 +24,13 @@ public class Main {
 		System.out.println(num);
 		
 		System.out.println("자바");
+
+
+        num = 1;
+        
+        Point p1 = new Point(1, 2);
+        
+        System.out.println(p1.toString());
 
 		System.out.println("김동욱바보");
 
@@ -24,5 +47,4 @@ public class Main {
 
 		num = 1;
 	}
-
 }
