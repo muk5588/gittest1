@@ -13,9 +13,9 @@ public class Main {
         System.out.println("Hello world!");
         
         String str = "";
+        int num;
 
-		int num;
-		
-		num = 1;
+        num = 1;
+    }
+
 	}
-}
