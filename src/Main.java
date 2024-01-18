@@ -1,5 +1,6 @@
 public class Main {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
+
 
         System.out.println("김동욱바보");
         
@@ -13,4 +14,9 @@ public class Main {
         
         String str = "";
     }
+
+		int num;
+		
+		num = 1;
+	}
 }
