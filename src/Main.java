@@ -4,5 +4,7 @@ public class Main {
 		int num;
 		
 		num = 1;
+		
+		System.out.println(num);
 	}
 }
