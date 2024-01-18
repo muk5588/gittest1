@@ -23,7 +23,7 @@ public class Main {
 
 		System.out.println(num);
 		
-		System.out.println("java");
+		System.out.println("java  ");
 
 
         num = 1;
