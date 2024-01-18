@@ -6,7 +6,4 @@ class Point {
 		
 		int b;
 	}
-	
-	
-	
-	
+}
