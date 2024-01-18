@@ -37,9 +37,13 @@ public class Main {
 		System.out.println(num);
 		
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 		System.out.println("자바");
+=======
+		System.out.println("java  ");
+>>>>>>> branch 'master' of https://github.com/muk5588/gittest1
 
 
         num = 1;
