@@ -12,6 +12,8 @@ public class GitTest_03 {
 		int restart;		
 		
 		// 무한루프로 게임 진행
+		
+		
 		while (true) {
 			// 1~100 사이의 난수생성
 			int computerNum = random.nextInt(10000) % 100 + 1;
