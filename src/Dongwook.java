@@ -26,5 +26,10 @@ public class Dongwook {
 		System.out.println(a+b);
 		
 		
+		System.out.println(sb);
+		System.out.println(sb);
+		System.out.println(sb);
+		System.out.println(sb);
+		
 	}
 }
