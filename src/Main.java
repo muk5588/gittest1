@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("김동욱바보");
 
+        System.out.println("Hello world!");
+        System.out.println(" 김도영 ");
     }
 }
