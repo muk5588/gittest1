@@ -17,13 +17,33 @@ class Point {
 public class Main {
 	public static void main(String[] args) {
 
+
+    	System.out.println("great");
+    	
+    	int d;
+    	
+    	double phone;
+    	
+    	
+    	
+        System.out.println("Hello world!");
+        System.out.println(" 김도영 ");
+        System.out.println(" hbhjubhju");
+    }
 		double num;
 
 		num = 1;
 
 		System.out.println(num);
 		
+<<<<<<< HEAD
+<<<<<<< HEAD
+}
+=======
+		System.out.println("자바");
+=======
 		System.out.println("java  ");
+>>>>>>> branch 'master' of https://github.com/muk5588/gittest1
 
 
         num = 1;
@@ -48,3 +68,4 @@ public class Main {
 		num = 1;
 	}
 }
+>>>>>>> branch 'master' of https://github.com/muk5588/gittest1
